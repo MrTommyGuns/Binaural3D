@@ -32,6 +32,11 @@ se realizaron test de funcionamiento y caracterización.
 
 ![CabezaFull4](https://user-images.githubusercontent.com/36898802/130495722-d2015967-46fe-40c0-b9fc-af1c2f34bbe8.jpg)
 
+![PruebaSegundoPrototipo](https://user-images.githubusercontent.com/36898802/130496103-bf8ad534-c46d-40db-8d49-9eaf1875352d.jpg)
+
+![photo_2021-08-23_20-13-37](https://user-images.githubusercontent.com/36898802/130496390-8cc564db-3f14-498a-b7d1-ea9dbd4239e1.jpg)
+
+![photo_2021-08-23_20-13-17](https://user-images.githubusercontent.com/36898802/130496355-fb4e1690-a03f-43d6-8263-34db273b6e47.jpg)
 
 
 ## Vídeo
